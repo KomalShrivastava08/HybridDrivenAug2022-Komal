@@ -1,9 +1,9 @@
-package com.tc.orangehrm.pages;
+package pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 
-import com.tc.orangehrm.base.PredefinedActions;
+import base.PredefinedActions;
 
 public class LoginPage extends PredefinedActions{
 

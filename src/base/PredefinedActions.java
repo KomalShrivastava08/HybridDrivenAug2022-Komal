@@ -1,4 +1,4 @@
-package com.tc.orangehrm.base;
+package base;
 
 import java.util.concurrent.TimeUnit;
 
